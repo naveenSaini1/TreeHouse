@@ -39,7 +39,6 @@
     
 ## Contributors
 
-* [@Swati Parmar](https://github.com/Swati180)
 * [@Naveen Saini](https://github.com/naveenSaini1)
 
 
