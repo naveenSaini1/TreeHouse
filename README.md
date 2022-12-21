@@ -37,12 +37,6 @@
     * Stored the data on MySQL and used it for Authentication.
     * Deployed the website on GitHub.
     
-## Contributors
-
-* [@Naveen Saini](https://github.com/naveenSaini1)
-
-
-
 ## Installation & Run
 
 * Before running the API server , you should update tha database config inside the application.properties file as per your Local database config..
